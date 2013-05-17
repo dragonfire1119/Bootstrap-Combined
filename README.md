@@ -1,4 +1,7 @@
-# [Bootstrap Combined] - Everything needed to get started with boostrap :)
+# Bootstrap Combined
+
+Everything needed to get started with boostrap :)
+
 I combined responsive & bootstrap css into one.
 
 Also it has
